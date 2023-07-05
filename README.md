@@ -1,4 +1,4 @@
-# Creating_basic_Node.JS_Project_with_npm
+# Creating_Node.JS_Project_with_npm
 - open a new Directory Project
 - open with VS Code
 - open a new file app.js
