@@ -21,13 +21,12 @@
   - "description": "Project",
   - "main": "app.js",
   - "scripts": {
-    - "test": "echo \"Error: no test specified\" && exit 1",
-    - "start": "node app.js"
+    - "test": "echo \"Error: no test specified\" && exit 1"
   - },
   - "author": "",
   - "license": "ISC"
 - }
-# add "start": "node app.js" under test. New look below
+# Add--> "start": "node app.js"  --> under test line. New look below:
 - {
   - "name": "npmproject",
   - "version": "1.0.0",
@@ -40,7 +39,7 @@
   - "author": "",
   - "license": "ISC"
 - }
-# Write--->  console.log("Test");  in app.js then execute 
+# Write--->  console.log("Test");  --> in app.js , then execute 
 - Command: node app.js
 - Test printed
 # Execute npm
